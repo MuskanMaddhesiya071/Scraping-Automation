@@ -14,3 +14,11 @@ The scraping logic is organized in a Jupyter Notebook for easy readability and r
 - Requests
 - Pandas
 - Jupyter Notebook
+
+##  Output
+- Scraped data is stored in a pandas DataFrame
+- Optionally exported to CSV or Excel
+
+##  Author
+**Muskan Maddheshiya**  
+Data Analyst & Python Enthusiast
